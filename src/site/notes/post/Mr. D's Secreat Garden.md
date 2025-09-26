@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/post/Mr. D's Secreat Garden/","tags":["gardenEntry"]}
 ---
 
-# Mr. D's Secreat Garden
 
 ## Content
 
