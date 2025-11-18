@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/Mr. D's Secreat Garden/Mr. D's Secreat Garden/","tags":["gardenEntry"]}
 ---
 
-<div><span><h1 data-heading="Content" dir="auto">Content</h1></span></div><pre><span><ul>
-<li dir="auto"><a data-tooltip-position="top" aria-label="Mr. D's Secreat Garden/Mr. D's Secreat Garden.md" data-href="Mr. D's Secreat Garden/Mr. D's Secreat Garden.md" href="Mr. D's Secreat Garden/Mr. D's Secreat Garden.md" class="internal-link" target="_blank" rel="noopener nofollow">Mr. D's Secreat Garden</a></li>
+
+<div><span><h1 data-heading="CONTENT" dir="auto">CONTENT</h1></span></div><pre><span><ul>
 <li dir="auto"><strong>AI资讯小结</strong>
 <ul>
 <li dir="auto"><a data-tooltip-position="top" aria-label="Mr. D's Secreat Garden/AI资讯小结/AI资讯小结-2025-11-06-2025-11-17.md" data-href="Mr. D's Secreat Garden/AI资讯小结/AI资讯小结-2025-11-06-2025-11-17.md" href="Mr. D's Secreat Garden/AI资讯小结/AI资讯小结-2025-11-06-2025-11-17.md" class="internal-link" target="_blank" rel="noopener nofollow">AI资讯小结-2025-11-06-2025-11-17</a></li>
@@ -22,4 +22,3 @@
 </ul>
 </li>
 </ul></span></pre>
-
